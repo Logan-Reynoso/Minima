@@ -6,7 +6,7 @@ Built independently in 24 hours for the **NVIDIA × ASUS NemoClaw Hackathon at U
 
 [Hackathon submission on Devpost](https://devpost.com/software/minima-j61cws) · [Source code](https://github.com/Logan-Reynoso/Minima)
 
-> **Project status:** Working hackathon prototype. Energy and carbon figures are **model-based estimates**, not measurements of actual GPU electricity use. A continuously available public demo has not been verified.
+> **Project status:** Working hackathon prototype. Energy and carbon figures are **model-based estimates**, not measurements of actual GPU electricity use.
 
 ## Why I built it
 
