@@ -1,4 +1,3 @@
-[Minima_Upgraded_README.md](https://github.com/user-attachments/files/34941930/Minima_Upgraded_README.md)
 # Minima
 
 **An AI prompt-optimization agent with a transparent estimate of token and energy impact.**
